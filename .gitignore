@@ -49,6 +49,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+collected_static/
 
 # Sphinx documentation
 docs/_build/
